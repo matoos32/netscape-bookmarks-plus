@@ -1,0 +1,14 @@
+{
+  "name": "netscape-bookmarks-plus",
+  "version": "1.0.0",
+  "description": "A tiny NodeJS application that wraps the netscape-bookmarks npm module to allow specifying the netscape-bookmarks input file at the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matoos32",
+  "license": "MIT",
+  "dependencies": {
+    "netscape-bookmarks": "^0.1.0"
+  }
+}
